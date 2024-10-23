@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Deluxe Suite",
+    "price": 250
+  },
+  {
+    "id": 2,
+    "name": "Standard Room",
+    "price": 150
+  },
+  {
+    "id": 3,
+    "name": "Presidential Suite",
+    "price": 500
+  },
+  {
+    "id": 4,
+    "name": "Family Room",
+    "price": 300
+  }
+]
